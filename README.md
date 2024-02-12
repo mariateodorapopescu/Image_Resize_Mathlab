@@ -1,6 +1,6 @@
-#Image Resize in Matlab
+# Image Resize in Matlab
 
-##Task 1: Proximal interpolation
+## Task 1: Proximal interpolation
 
 **1. proximal_2x2:**
 - calculate distances between the point (x(i),y(j)) compared to (x1,y1), (x1,y2), (x2,y1),
@@ -59,7 +59,7 @@ and the unit matrix, another matrix of n x 2n elements emerges; I just need it
 what is from n+1 to 2*n).
 
 
-##Task2: Bicubic interpolation
+## Task2: Bicubic interpolation
 
 **1. bicubic_coef:**
 - define the matrices as in the presented formulas: the one on the left and the one on the right are
